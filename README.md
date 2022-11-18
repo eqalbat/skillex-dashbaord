@@ -2,6 +2,12 @@
 
 - https://dribbble.com/shots/19851676-Skillex-Dashboard
 
+## memo
+
+- https://github.com/withastro/astro/tree/latest/examples/framework-react
+
+---
+
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:

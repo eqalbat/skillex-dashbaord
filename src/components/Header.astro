@@ -1,12 +1,14 @@
 ---
 import HeaderLink from './HeaderLink.astro'
 import { SITE_TITLE } from '../config'
+import Header from './Header';
 ---
 
 <header>
   <h2>
     {SITE_TITLE}
   </h2>
+  <Header />
   <nav>
     <HeaderLink href="/">Home</HeaderLink>
     <HeaderLink href="/blog">Blog</HeaderLink>
